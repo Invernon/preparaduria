@@ -10,4 +10,4 @@
 3. Realizar una consulta del tipo **$http.get** al API de [openweathermap] (http://openweathermap.org/api) `tendrán que buscar como realizar esto`.
 4. Agregar al **JSON** obtenido un campo que tenga como etiqueta **nombre** y valor su **NOMBRE**.
 3. Guardar los datos obtenidos en **$scope.city** esta variable no tiene que ser declarada. `sí tienen error en esta parte significa que tienen que interpretar los datos obtenidos`.
-4. **_IMPORTANTE!!!_** utilizar restultado obtenido de la consulta [openweathermap] (http://openweathermap.org/api) y usando la variable urlPost como URL, para hacer uso de **$http.post**
+4. **_IMPORTANTE!!!_** utilizar restultado obtenido de la consulta [openweathermap] (http://openweathermap.org/api) y usando la variable **urlPost** como URL, para hacer uso de **$http.post**
