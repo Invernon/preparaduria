@@ -11,3 +11,6 @@
 4. Agregar al **JSON** obtenido un campo que tenga como llave **nombre** y valor su **NOMBRE**, así como su cédula, con la llave etiqueta **cedula**.
 3. Guardar los datos obtenidos en **$scope.city** esta variable no tiene que ser declarada. `sí tienen error en esta parte significa que tienen que interpretar los datos obtenidos`.
 4. **_IMPORTANTE!!!_** utilizar restultado obtenido de la consulta [openweathermap] (http://openweathermap.org/api) y usando la variable **urlPost** como URL, para hacer uso de **$http.post**
+
+#### Resultado
+![picture alt](Actividad-clima.jpeg?raw=true "Title is optional")
