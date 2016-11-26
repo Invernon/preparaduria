@@ -1,6 +1,6 @@
 # Preparadurías
-* [Base de datos](https://bunterg.github.io/preparaduria/) 
-* [Sistemas de Información](https://bunterg.github.io/preparaduria/)
+* [Base de datos](https://github.com/bunterg/preparaduria/tree/master/Base%20de%20Datos) 
+* [Sistemas de Información](https://github.com/bunterg/preparaduria/tree/master/Sistemas%20de%20Inoformacion)
 
 ### Herramientas
 * [Sublime Text](https://www.sublimetext.com/)
