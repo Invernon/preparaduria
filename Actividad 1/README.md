@@ -6,8 +6,8 @@
 
 #### Parte 2: en esta parte modificaran el archivo clima.html por lo tanto necesitan tener instalado sublime text, únicamente modificaran la sección de código que se encuentra al final del código en JavaScript, el cual utilizará AngularJS.
 1. Modificar la variable key por el valor que obtuvieron en la **Parte 1**.
-2. Modificar la variable **cédula** por su cédula de identidad.
+2. Modificar la variable **nombre** por su nombre y apellido.
 3. Realizar una consulta del tipo **$http.get** al API de [openweathermap] (http://openweathermap.org/api) `tendrán que buscar como realizar esto`.
-4. Agregar al **JSON** obtenido un campo que tenga como etiqueta **nombre** y valor su **NOMBRE**.
+4. Agregar al **JSON** obtenido un campo que tenga como llave **nombre** y valor su **NOMBRE**, así como su cédula, con la llave etiqueta **cedula**.
 3. Guardar los datos obtenidos en **$scope.city** esta variable no tiene que ser declarada. `sí tienen error en esta parte significa que tienen que interpretar los datos obtenidos`.
 4. **_IMPORTANTE!!!_** utilizar restultado obtenido de la consulta [openweathermap] (http://openweathermap.org/api) y usando la variable **urlPost** como URL, para hacer uso de **$http.post**

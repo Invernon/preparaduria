@@ -66,9 +66,9 @@
         var app = angular.module('myApp', []);
         // REALIZAR CAMBIOS SOLICITADOS
         app.controller('myCtrl', function($scope, $http) {
-            // MODIFICAR EL NÚMERO DE CEDULA
-            var cedula = 123456789;
-            var urlPost = 'https://unimet-f0c08.firebaseio.com/clima/' + cedula + '/.json';
+            // COLOCAR SU NOMBRE Y APELLIDO
+            var nombre = "NOMBRE APELLIDO";
+            var urlPost = 'https://unimet-f0c08.firebaseio.com/clima/' + nombre + '/.json';
             var url = 'http://api.openweathermap.org/data/2.5/weather?q=';
             var llaveOptenidaAlRegistrar = '123123';
             var key = '&APPID=' + llaveOptenidaAlRegistrar;
