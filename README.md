@@ -24,7 +24,8 @@ La información sobre las actividades la pueden encontrar en el link de la activ
 
 ### Links de interes
 * [W3schools](http://www.w3schools.com/)
-* JSON: (http://www.w3schools.com/json/) y http://www.json.org/json-es.html
+* SQL: [W3schools](http://www.w3schools.com/sql/default.asp)
+* JSON: http://www.w3schools.com/json/ y http://www.json.org/json-es.html
 * [Operaciones REST](http://www.restapitutorial.com/lessons/httpmethods.html)
 * [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 * [Estilo web Google material](https://getmdl.io/)
@@ -33,3 +34,4 @@ La información sobre las actividades la pueden encontrar en el link de la activ
 * Cursos básicos: https://www.codecademy.com/es y https://www.codeschool.com/
 * Iconos: https://materialdesignicons.com/ y https://design.google.com/icons/
 * [Versionamiento de código](https://github.com/)
+* [Bootstrap](http://getbootstrap.com/)

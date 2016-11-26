@@ -13,4 +13,4 @@
 4. **_IMPORTANTE!!!_** utilizar restultado obtenido de la consulta [openweathermap] (http://openweathermap.org/api) y usando la variable **urlPost** como URL, para hacer uso de **$http.post**
 
 #### Resultado
-![picture alt](Actividad-clima.jpeg?raw=true "Title is optional")
+![picture alt](/Actividad-clima.jpeg?raw=true "Title is optional")
