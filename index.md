@@ -37,3 +37,8 @@
 ### Cosas útiles
 * [Tiempo](http://momentjs.com/)
 * [Gráficos](http://www.chartjs.org/)
+* [Más herramientas](http://nodeframework.com/index.html#mvc)
+
+### Juegos
+* [Html](http://www.pixijs.com/)
+* Game Engine: [unity3d](https://unity3d.com/es)
