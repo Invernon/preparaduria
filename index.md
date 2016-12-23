@@ -25,12 +25,11 @@
 * [Estilo web Google material](https://getmdl.io/)
 * [Versionamiento de código](https://github.com/)
 * [DBdesigner](https://dbdesigner.net/)
-* jQuery (http://www.w3schools.com/jquery) y <http://www.w3schools.com/jquery
-* AngularJS controlador de vistas <https://angularjs.org/> y http://www.w3schools.com/angular/
-* Colores https://material.google.com/style/color.html#color-color-palette y http://htmlcolorcodes.com/es/
-* Cursos básicos: https://www.codecademy.com/es y https://www.codeschool.com/
-* Iconos: http://google.github.io/material-design-icons/, https://design.google.com/icons/, http://fontawesome.io/icons/, y [Enfocados para aplicaciones nativas](https://materialdesignicons.com/)
-* Iconos: https://materialdesignicons.com/ y https://design.google.com/icons/
+* [jQuery](http://www.w3schools.com/jquery) y https://jquery.com/
+* [AngularJS controlador de vistas](http://www.w3schools.com/angular/) y <https://angularjs.org/>
+* [Colores](https://material.google.com/style/color.html#color-color-palette) y <http://htmlcolorcodes.com/>
+* Cursos básicos: <https://www.codecademy.com/> y <https://www.codeschool.com/>
+* [Iconos de Google](http://google.github.io/material-design-icons/), [fontawesome](http://fontawesome.io/icons/) y [Enfocados para aplicaciones nativas](https://materialdesignicons.com/)
 * [Versionamiento de código](https://github.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Angular Material](https://material.angularjs.org/latest/)
