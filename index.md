@@ -34,3 +34,7 @@
 * [Versionamiento de código](https://github.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Angular Material](https://material.angularjs.org/latest/)
+
+### Cosas útiles
+* [Tiempo](http://momentjs.com/)
+* [Gráficos](http://www.chartjs.org/)
