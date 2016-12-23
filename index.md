@@ -25,7 +25,7 @@
 * [Estilo web Google material](https://getmdl.io/)
 * [Versionamiento de código](https://github.com/)
 * [DBdesigner](https://dbdesigner.net/)
-* [jQuery](http://www.w3schools.com/jquery) y https://jquery.com/
+* [jQuery](http://www.w3schools.com/jquery) y <https://jquery.com/>
 * [AngularJS controlador de vistas](http://www.w3schools.com/angular/) y <https://angularjs.org/>
 * [Colores](https://material.google.com/style/color.html#color-color-palette) y <http://htmlcolorcodes.com/>
 * Cursos básicos: <https://www.codecademy.com/> y <https://www.codeschool.com/>
