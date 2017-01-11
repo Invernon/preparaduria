@@ -18,7 +18,7 @@
 * [Principios de programación orientada a objetos y su diseño](http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 * [W3schools](http://www.w3schools.com/)
 * SQL: [W3schools](http://www.w3schools.com/sql/default.asp)
-* JSON: [W3schools](http://www.w3schools.com/js/js_json_intro.asp), [W3schools](http://www.w3schools.com/js/js_json.asp) y http://www.json.org/json-es.html
+* JSON: [W3schools](http://www.w3schools.com/js/js_json_intro.asp), [W3schools](http://www.w3schools.com/js/js_json.asp) y <http://www.json.org/json-es.html/>
 * [Operaciones REST](http://www.restapitutorial.com/lessons/httpmethods.html)
 * [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 * [Bootstrap](http://getbootstrap.com/)
