@@ -2,7 +2,7 @@
 
 La información sobre las actividades la pueden encontrar en el link de la actividad
 ### Actividades
-* [Actividad 1](/Actividad 1)
+* [Actividad 1](https://github.com/bunterg/preparaduria/tree/master/Base%20de%20Datos/Actividad%201)
 * Actividad 2: Query en NorthWind Database select [W3schools](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 
 #### para descargar un archivo
