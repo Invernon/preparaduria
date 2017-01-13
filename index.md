@@ -38,6 +38,7 @@
 * [Tiempo](http://momentjs.com/)
 * [Gráficos](http://www.chartjs.org/)
 * [Más herramientas](http://nodeframework.com/index.html#mvc)
+* [Postman herramienta para pruebas de API REST](https://www.getpostman.com/)
 
 ### Juegos
 * [Html](http://www.pixijs.com/)
