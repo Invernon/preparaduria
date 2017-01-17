@@ -28,7 +28,7 @@
 * [jQuery](http://www.w3schools.com/jquery) y <https://jquery.com/>
 * [AngularJS controlador de vistas](http://www.w3schools.com/angular/) y <https://angularjs.org/>
 * [Colores](https://material.google.com/style/color.html#color-color-palette) y <http://htmlcolorcodes.com/>
-* Cursos básicos: <https://www.codecademy.com/>, <https://www.codeschool.com/> y <https://www.sololearn.com/>
+* Cursos básicos: <https://www.codecademy.com/>, <https://www.codeschool.com/>, <https://www.sololearn.com/> y <https://egghead.io/>
 * [Iconos de Google](http://google.github.io/material-design-icons/), [fontawesome](http://fontawesome.io/icons/) y [Enfocados para aplicaciones nativas](https://materialdesignicons.com/)
 * [Versionamiento de código](https://github.com/)
 
